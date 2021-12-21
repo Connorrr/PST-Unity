@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1bb118544aac298419f1a702c00e3678
+  - enabled: 1
+    path: Assets/Scenes/Trial.unity
+    guid: 55bf3ad699e3c3a48b67550a22325632
+  - enabled: 1
+    path: Assets/Scenes/BallGame.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Instructions1.unity
+    guid: 96170477bce200849b4d03ceeaadbec1
+  - enabled: 1
+    path: Assets/Scenes/AvatarSelection.unity
+    guid: 96f457e1d748add479418ec25b6ccdd4
+  - enabled: 1
+    path: Assets/Scenes/Instructions2.unity
+    guid: 9329649f224fdaf499880977f3e93e63
+  - enabled: 1
+    path: Assets/Scenes/Form.unity
+    guid: e7b45c1870d350a439ae1d2dd62d9a24
+  - enabled: 1
+    path: Assets/Scenes/EmojiGame.unity
+    guid: f9924d667dd214a4ab876cb3fc72f0f3
+  - enabled: 1
+    path: Assets/Scenes/MemoryGame.unity
+    guid: 7d01361becc31d442b644cf4f3f2c376
+  - enabled: 1
+    path: Assets/Scenes/BaloonGame.unity
+    guid: b454550427588bf4193e037e4e6b2b0a
+  m_configObjects: {}

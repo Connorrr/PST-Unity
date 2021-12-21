@@ -1,0 +1,16 @@
+1.  Trial ID:
+
+[ block number ] [ target type ] [ number of targets ] [ distractor type ] [ matrix type ] [ trial number ]
+
+Block Number:  	nothing for practice trials 1-9 for main blocks
+Target Type:	
+                2 = Calm		2
+    	        1 = Good		1
+            	4 = Happy		4 
+Distractor Type:	
+		1 = Mild		1
+		2 = Severe		2
+		3 = Angry		3
+Matrix Type:
+		1 = 3x3
+		2 = 4x4
