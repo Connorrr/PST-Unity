@@ -15,10 +15,10 @@ The Task itself is broken into several different parts:
 5.  Survey:  Participants are asked ot record their level of engagement.
 6.  Email:  The logfiles, voice recordings and form responses are attached to an email and then sent to the specified email addresses.
 
-![image](https://user-images.githubusercontent.com/7636403/146849113-bfeec98d-d20b-4e7b-a241-d1c02429fd0b.png)
+![image7](https://user-images.githubusercontent.com/7636403/146849392-0b3938fd-77f1-4398-89f4-478e1890ec26.gif)
 
-![image](https://user-images.githubusercontent.com/7636403/146849127-00c097d7-5269-4595-a13e-5eeb5f22fbbc.png)
+![image8](https://user-images.githubusercontent.com/7636403/146849396-9b41cac6-772a-4f51-9547-d8fdade92540.gif)
 
-![image](https://user-images.githubusercontent.com/7636403/146849141-d7dff8bf-993c-48d0-ac0c-f6a5e8be13e9.png)
+![image9](https://user-images.githubusercontent.com/7636403/146849399-98bafa5a-acee-4a00-a48b-2f342e881dc5.gif)
 
-![image](https://user-images.githubusercontent.com/7636403/146849162-58332846-9a59-412b-932e-fad820aeffae.png)
+![image10](https://user-images.githubusercontent.com/7636403/146849403-58d12e8d-3587-4e20-ac31-cbac2d1b72c7.gif)
